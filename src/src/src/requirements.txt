@@ -1,1 +1,6 @@
-
+torch>=2.0.0
+torchdiffeq>=0.2.3
+rdkit>=2023.03.1
+scikit-learn>=1.2.0
+pandas>=1.5.0
+matplotlib>=3.6.0
