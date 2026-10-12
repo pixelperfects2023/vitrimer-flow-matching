@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-Official repository for **Physics-Informed Latent Flow Matching for Inverse Vitrimer Design**. The pipeline generates dynamic covalent linkers targeting specific Frontier Molecular Orbital (FMO) HOMO-LUMO energy gaps ($\Delta E_{\text{gap}} \approx 0.2037 \text{ Ha}$) using an ODE-based Continuous Normalizing Flow (CNF) coupled with nearest-neighbor inverse retrieval on the QM9 dataset.
+Official repository for **Physics-Informed Latent Flow Matching for Inverse Vitrimer Design**. The model generates dynamic covalent linkers targeting specific Frontier Molecular Orbital (FMO) HOMO-LUMO energy gaps ($\Delta E_{\text{gap}} \approx 0.2037 \text{ Ha}$) using an ODE-based Continuous Normalizing Flow (CNF) along with nearest-neighbor inverse retrieval on QM9 dataset.
 
 ## Key Benchmark Results
 - **Synthetic Validity:** 100% (Zero chemical hallucinations via manifold projection)
